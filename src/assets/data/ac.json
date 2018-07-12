@@ -1,0 +1,34 @@
+{
+  "freeData": [
+    {
+      "title": "碧欧泉皇牌保湿「绿活泉」",
+      "date": "06.01-06.15",
+      "num": 10,
+      "img": "assets/img/ac/af1.jpg"
+    },
+    {
+      "title": "科颜氏金盏花爽肤水试用套装",
+      "date": "06.01-06.15",
+      "num": 20,
+      "img": "assets/img/ac/af2.jpg"
+    },
+    {
+      "title": "植物医生石斛兰舒纹按摩眼霜",
+      "date": "05.30-06.13",
+      "num": 20,
+      "img": "assets/img/ac/af3.jpg"
+    },
+    {
+      "title": "碧欧泉「奇迹水」肌底精华露",
+      "date": "05.30-06.13",
+      "num": 20,
+      "img": "assets/img/ac/af4.jpg"
+    },
+    {
+      "title": "花皙蔻黑蜂胶极润安瓶黑面膜",
+      "date": "05.30-06.13",
+      "num": 20,
+      "img": "assets/img/ac/af5.jpg"
+    }
+  ]
+}
